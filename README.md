@@ -59,5 +59,5 @@ Useful labels:
 
 This profile is designed to connect GitHub, ORCID, Zenodo DOIs, public repositories, architecture notes, and future papers into one coherent research record. The profile repository itself acts as a public index for the ecosystem and a stable place for shared standards, citation metadata, and publication planning.
 
-ORCID iD: add the public iD here after confirming the canonical URL.
+ORCID iD: https://orcid.org/0009-0007-1585-6927.
 
