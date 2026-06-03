@@ -19,11 +19,11 @@ My work sits between applied software engineering, protocol design, local-first 
 | Area | Project | Role |
 | --- | --- | --- |
 | Proof and verification | [OpenProof](https://github.com/sparshsam/openproof) | Proof-of-existence infrastructure for local file hashes and verifiable records. |
-| Behavioral finance | [Elora Vault](https://github.com/sparshsam/elora-vault) | Self-custodial financial behavior system for converting high-friction impulses into stored capital. |
+| Behavioral finance | [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral financial infrastructure for user-controlled vault mechanics and capital separation. |
 | Calm finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Private, local-first finance tooling for everyday budgeting and records. |
 | Local documents | [PDFReader](https://github.com/sparshsam/pdfreader-by-sparsh) | Local-first desktop PDF tooling with no cloud upload dependency. |
 | Care systems | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care software for schedules, logs, and stewardship. |
-| Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Quiet language and reflection software built around deliberate daily ritual. |
+| Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with dictionary definitions and optional media backgrounds. |
 | Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Public-interest tooling for safety, accountability, and civic trust. |
 
 ## Current Outputs
@@ -60,4 +60,3 @@ Useful labels:
 This profile is designed to connect GitHub, ORCID, Zenodo DOIs, public repositories, architecture notes, and future papers into one coherent research record. The profile repository itself acts as a public index for the ecosystem and a stable place for shared standards, citation metadata, and publication planning.
 
 ORCID iD: https://orcid.org/0009-0007-1585-6927.
-

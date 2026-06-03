@@ -5,7 +5,7 @@
 - Create profile repository and identity documentation.
 - Standardize repository metadata, topics, badges, and descriptions.
 - Add `CITATION.cff` and `.zenodo.json` to mature repositories.
-- Publish first DOI releases for OpenProof, QuietLedger, and PDFReader.
+- Prepare DOI release candidates for OpenProof, QuietLedger, and PDFReader.
 - Draft the first architecture notes.
 
 ## 2027: Architecture Papers
@@ -45,4 +45,3 @@
 - privacy models;
 - release reports;
 - annotated reference implementations.
-

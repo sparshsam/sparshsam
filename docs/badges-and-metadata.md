@@ -30,7 +30,7 @@ Every README should include a compact identity block:
 - Data posture: local-first / private by default / public proof only
 - Research themes: calm software, verification, ownership without surveillance
 - Citation: pending DOI
-- ORCID: pending public iD confirmation
+- ORCID: https://orcid.org/0009-0007-1585-6927
 ```
 
 ## Required Root Files
@@ -49,4 +49,3 @@ Each serious repository should eventually contain:
 - `docs/research-note.md`
 - `docs/privacy-model.md`
 - `docs/maintenance.md`
-

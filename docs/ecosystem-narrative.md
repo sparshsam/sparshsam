@@ -20,7 +20,7 @@ That distinction shapes the technical architecture:
 
 OpenProof anchors the proof and verification layer. It explores how ordinary files, records, and claims can become verifiable without turning private contents into public data.
 
-Elora Vault explores behavioral finance as infrastructure. Its purpose is not speculation, gambling, or hype. It studies how high-friction impulses can be redirected into self-owned savings and durable records.
+Elora Vault explores behavioral financial infrastructure. Its purpose is not speculation, gambling, or hype. It studies how high-friction impulses can be redirected through user-controlled vault mechanics, capital separation, and timed lock infrastructure.
 
 QuietLedger provides the calmer everyday finance counterpart: private, local-first records for budgeting, review, and personal continuity.
 
@@ -28,11 +28,10 @@ PDFReader extends the local-first principle to documents. Reading, annotating, c
 
 OpenSprout applies privacy-first software to care routines. Plant care is a useful domain because it is repetitive, personal, embodied, and poorly served by attention-maximizing software.
 
-WordWise treats language practice as a reflective ritual rather than a streak machine.
+WordWise treats language practice as a reflective ritual rather than a streak machine, with optional external media kept separate from the core word-of-the-day workflow.
 
 SheSafe brings the same integrity lens to civic and public-interest tooling, where trust, traceability, and restraint matter more than growth mechanics.
 
 ## Long-Term Direction
 
 Over five to ten years, the ecosystem should mature into a public body of software, specifications, RFCs, whitepapers, and DOI-indexed releases. The goal is not a single monolithic product. The goal is a coherent research practice around calm, owned, and verifiable software systems.
-

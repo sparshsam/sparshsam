@@ -17,7 +17,7 @@ The GitHub profile should function as a research index, not a portfolio wall. It
 3. Project table: one row per public repository, grouped by research area.
 4. Current outputs: links to narrative, philosophy, roadmap, taxonomy, ORCID/DOI workflow.
 5. Maintenance principles: concise rules that signal seriousness.
-6. ORCID line: public iD once confirmed.
+6. ORCID line: canonical public iD.
 
 ## Tone Rules
 
@@ -46,4 +46,3 @@ Secondary pins can rotate between `wordwise` and `shesafe` as they mature.
 - Per release: add DOI, citation, and changelog links.
 - Quarterly: review pinned repositories and consistency of repo topics.
 - Annually: publish a research summary, architecture paper, or ecosystem report.
-

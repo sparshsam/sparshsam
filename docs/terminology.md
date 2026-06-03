@@ -21,11 +21,11 @@ This is broad enough to include finance, proof, documents, care, language, and c
 ## Recommended Taglines
 
 - OpenProof: proof-of-existence infrastructure for local records.
-- Elora Vault: behavioral finance infrastructure for self-owned savings.
+- Elora Vault: behavioral financial infrastructure for user-controlled vault mechanics and capital separation.
 - QuietLedger: local-first finance records without noise.
 - PDFReader: private desktop document tooling.
 - OpenSprout: privacy-first care logs for plants and routines.
-- WordWise: reflective language practice without engagement loops.
+- WordWise: reflective word-of-the-day practice with optional media backgrounds.
 - SheSafe: civic integrity tooling for safety and accountability.
 
 ## Repository Description Rules
@@ -38,4 +38,3 @@ This is broad enough to include finance, proof, documents, care, language, and c
 Example:
 
 `Proof-of-existence infrastructure for timestamping local file hashes with minimal disclosure.`
-

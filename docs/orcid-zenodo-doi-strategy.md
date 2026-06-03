@@ -15,7 +15,7 @@ ORCID should be the canonical researcher identity. GitHub should be the developm
 
 Actions:
 
-1. Add the public ORCID URL to the GitHub profile README after confirming the exact iD.
+1. Use the canonical public ORCID URL in the GitHub profile README: https://orcid.org/0009-0007-1585-6927.
 2. Add the same ORCID to `CITATION.cff` in every mature repository.
 3. Add Zenodo software records, papers, architecture notes, and protocol specifications to ORCID Works.
 4. Use consistent creator name formatting: `Sparsh Sam`.
@@ -46,7 +46,7 @@ Use factual release titles:
 
 Avoid persuasive release names.
 
-## DOI Eligibility Priorities
+## DOI Readiness Review Priorities
 
 First wave:
 
@@ -73,4 +73,3 @@ Only publish a DOI when the release has:
 - citation metadata;
 - a changelog entry;
 - enough documentation for a reader to understand the architecture and limits.
-

@@ -6,5 +6,4 @@
 - Data posture: REPLACE
 - Research themes: REPLACE
 - Citation: pending DOI
-- ORCID: pending public iD confirmation
-
+- ORCID: https://orcid.org/0009-0007-1585-6927

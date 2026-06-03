@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Sam"
     given-names: "Sparsh"
-    orcid: "https://orcid.org/REPLACE-WITH-ORCID-ID"
+    orcid: "https://orcid.org/0009-0007-1585-6927"
 repository-code: "https://github.com/sparshsam/REPO"
 url: "https://github.com/sparshsam/REPO"
 abstract: "SHORT_DESCRIPTION"
@@ -17,4 +17,3 @@ keywords:
   - local-first
   - privacy-first
   - open source
-

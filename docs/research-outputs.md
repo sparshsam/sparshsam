@@ -6,9 +6,9 @@ This page is the public index for citeable and near-citeable work.
 
 | Output | Repository | Status | DOI |
 | --- | --- | --- | --- |
-| OpenProof | https://github.com/sparshsam/openproof | Candidate for first DOI release | Pending |
-| QuietLedger | https://github.com/sparshsam/quietledger | Candidate for first DOI release | Pending |
-| PDFReader | https://github.com/sparshsam/pdfreader-by-sparsh | Candidate for first DOI release | Pending |
+| OpenProof | https://github.com/sparshsam/openproof | Target for DOI readiness review | Pending |
+| QuietLedger | https://github.com/sparshsam/quietledger | Target for DOI readiness review | Pending |
+| PDFReader | https://github.com/sparshsam/pdfreader-by-sparsh | Target for DOI readiness review | Pending |
 | Elora Vault | https://github.com/sparshsam/elora-vault | Requires reframed metadata and architecture note | Pending |
 | OpenSprout | https://github.com/sparshsam/opensprout | Requires privacy model note | Pending |
 | WordWise | https://github.com/sparshsam/wordwise | Requires scope clarification | Pending |
@@ -46,4 +46,3 @@ Every research output should include:
 - limitations;
 - citation metadata;
 - release or revision history.
-
