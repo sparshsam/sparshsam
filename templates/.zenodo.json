@@ -1,0 +1,20 @@
+{
+  "title": "PROJECT_NAME",
+  "description": "SHORT_DESCRIPTION",
+  "creators": [
+    {
+      "name": "Sam, Sparsh",
+      "orcid": "REPLACE-WITH-ORCID-ID"
+    }
+  ],
+  "keywords": [
+    "calm software",
+    "local-first",
+    "privacy-first",
+    "open-source"
+  ],
+  "license": "REPLACE-WITH-SPDX-LICENSE",
+  "upload_type": "software",
+  "access_right": "open"
+}
+

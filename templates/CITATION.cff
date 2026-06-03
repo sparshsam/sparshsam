@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or cite this project, please cite it using the metadata in this file."
+title: "PROJECT_NAME"
+type: software
+authors:
+  - family-names: "Sam"
+    given-names: "Sparsh"
+    orcid: "https://orcid.org/REPLACE-WITH-ORCID-ID"
+repository-code: "https://github.com/sparshsam/REPO"
+url: "https://github.com/sparshsam/REPO"
+abstract: "SHORT_DESCRIPTION"
+license: "REPLACE-WITH-SPDX-LICENSE"
+version: "0.1.0"
+date-released: "2026-06-03"
+keywords:
+  - calm software
+  - local-first
+  - privacy-first
+  - open source
+
