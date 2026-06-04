@@ -26,6 +26,12 @@ My work sits between applied software engineering, protocol design, local-first 
 | Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with dictionary definitions and optional media backgrounds. |
 | Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Public-interest tooling for safety, accountability, and civic trust. |
 
+## Private / Proprietary Systems
+
+Not all systems in this ecosystem are public. Some remain private where they involve proprietary workflows, sensitive operational logic, or business-specific infrastructure.
+
+TW Oracle is a private internal decision-support system for The Wager, focused on structured sports intelligence, operational workflows, and disciplined review processes. Public references describe only its purpose and boundaries; implementation details remain private.
+
 ## Current Outputs
 
 - [Ecosystem Narrative](docs/ecosystem-narrative.md)

@@ -32,6 +32,12 @@ WordWise treats language practice as a reflective ritual rather than a streak ma
 
 SheSafe brings the same integrity lens to civic and public-interest tooling, where trust, traceability, and restraint matter more than growth mechanics.
 
+## Public and Private Boundaries
+
+Not all work in this ecosystem is intended for public inspection. Some systems operate as private infrastructure where the logic, data, or workflows involve proprietary business operations, sensitive operational processes, or confidential client routines. These systems are not published, audited, or open-sourced, and their existence is acknowledged here only at a high level to maintain a complete picture of the research practice.
+
+The public/private boundary is intentional: open-source principles apply where transparency benefits users, security, or verifiability. Where they would expose proprietary advantage, operational security, or client privacy, the work remains private.
+
 ## Long-Term Direction
 
 Over five to ten years, the ecosystem should mature into a public body of software, specifications, RFCs, whitepapers, and DOI-indexed releases. The goal is not a single monolithic product. The goal is a coherent research practice around calm, owned, and verifiable software systems.
