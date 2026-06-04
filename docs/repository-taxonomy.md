@@ -11,6 +11,7 @@
 | Reflective ritual | Quiet tools for language, attention, journaling, or deliberate practice. | `wordwise` |
 | Civic integrity | Public-interest tools for safety, accountability, and trusted records. | `shesafe` |
 | Research identity | Profile, standards, publication metadata, and ecosystem documentation. | `sparshsam` |
+| Private infrastructure | Proprietary systems not publicly inspectable. Works involving internal operational logic, client workflows, or business-specific infrastructure. | `tworacle` |
 
 ## Repository Classes
 

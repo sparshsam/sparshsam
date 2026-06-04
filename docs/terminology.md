@@ -18,6 +18,8 @@ This is broad enough to include finance, proof, documents, care, language, and c
 | WordWise | WordWise | `wordwise` |
 | SheSafe | SheSafe | `shesafe` |
 
+| TW Oracle | TW Oracle | Private | Private internal decision-support system for The Wager. |
+
 ## Recommended Taglines
 
 - OpenProof: proof-of-existence infrastructure for local records.
