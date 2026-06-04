@@ -32,6 +32,10 @@ Not all systems in this ecosystem are public. Some remain private where they inv
 
 TW Oracle is a private internal decision-support system for The Wager, focused on structured sports intelligence, operational workflows, and disciplined review processes. Public references describe only its purpose and boundaries; implementation details remain private.
 
+## Governance & Standards
+
+[Ecosystem Standards](https://github.com/sparshsam/ecosystem-standards) — repository, documentation, security, and publication standards governing the public and private systems across this ecosystem.
+
 ## Current Outputs
 
 - [Ecosystem Narrative](docs/ecosystem-narrative.md)
