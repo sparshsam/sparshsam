@@ -27,6 +27,7 @@ My work sits between applied software engineering, protocol design, local-first 
 | Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with dictionary definitions and optional media backgrounds. |
 | Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Public-interest tooling for safety, accountability, and civic trust. |
 | Creative prototypes | [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Legacy AI-assisted Python/Pygame arcade prototype preserved for future modernization. |
+| Interactive apps | [Chess by Sparsh](https://github.com/sparshsam/openboard-chess) | Local-first chess board with accurate rule validation, portable game records, and a clean browser-based UI. |
 
 ## Private / Proprietary Systems
 
@@ -46,6 +47,7 @@ TW Oracle is a private internal decision-support system for The Wager, focused o
 - [Publication Roadmap](docs/publication-roadmap.md)
 - [Repository Taxonomy](docs/repository-taxonomy.md)
 - [ORCID and DOI Strategy](docs/orcid-zenodo-doi-strategy.md)
+- [Chess by Sparsh](https://openboard-chess.vercel.app/) — local-first chess board with FEN import/export and two-player mode.
 
 ## Positioning
 
