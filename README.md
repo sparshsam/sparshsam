@@ -18,7 +18,7 @@ My work sits between applied software engineering, protocol design, local-first 
 
 | Area | Project | Role |
 | --- | --- | --- |
-| Command center | [Builder Journal](https://github.com/sparshsam/builder-journal) | Public builder journal and ecosystem command center for project direction, status, decisions, maintenance, and repo health tracking. |
+| Command center | [Builder Journal](https://github.com/sparshsam/builder-journal) | Public builder journal and ecosystem command center for project direction, status, decisions, maintenance, and repo health tracking. Now includes agent handoff rules and future build roadmaps. |
 | Proof and verification | [OpenProof](https://github.com/sparshsam/openproof) | Proof-of-existence infrastructure for local file hashes and verifiable records. |
 | Behavioral finance | [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral financial infrastructure for user-controlled vault mechanics and capital separation. |
 | Calm finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Private, local-first finance tooling for everyday budgeting and records. |
