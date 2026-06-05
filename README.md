@@ -25,6 +25,7 @@ My work sits between applied software engineering, protocol design, local-first 
 | Care systems | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care software for schedules, logs, and stewardship. |
 | Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with dictionary definitions and optional media backgrounds. |
 | Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Public-interest tooling for safety, accountability, and civic trust. |
+| Creative prototypes | [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Legacy AI-assisted Python/Pygame arcade prototype preserved for future modernization. |
 
 ## Private / Proprietary Systems
 

@@ -10,6 +10,7 @@
 | Care and stewardship | Software for maintaining living routines and long-running personal records. | `opensprout` |
 | Reflective ritual | Quiet tools for language, attention, journaling, or deliberate practice. | `wordwise` |
 | Civic integrity | Public-interest tools for safety, accountability, and trusted records. | `shesafe` |
+| Creative prototypes | Small public prototypes preserved for learning, modernization, or historical continuity. | `hiss-tastic` |
 | Research identity | Profile, standards, publication metadata, and ecosystem documentation. | `sparshsam` |
 | Private infrastructure | Proprietary systems not publicly inspectable. Works involving internal operational logic, client workflows, or business-specific infrastructure. | `tworacle` |
 
