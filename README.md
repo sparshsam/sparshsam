@@ -1,65 +1,42 @@
 # Sparsh Sam
 
-Independent researcher, open-source systems designer, and builder of calm infrastructure.
+Independent researcher and open-source systems designer building calm, privacy-first infrastructure.
 
-I build privacy-first software systems for proof, ownership, finance, documents, care, language, and civic integrity. The common thread is restraint: tools that help people keep agency over records, routines, decisions, and evidence without turning attention, behavior, or trust into extractive product surfaces.
+I work on local-first software, proof systems, behavioral infrastructure, and public-interest tools that help people keep agency over records, routines, decisions, and evidence. The common thread is restraint: software should be legible, durable, exportable, and useful without turning attention or trust into a growth surface.
 
-My work sits between applied software engineering, protocol design, local-first computing, and behavioral infrastructure. I am especially interested in systems that are legible, self-custodial, durable, and emotionally quiet.
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1585--6927-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1585-6927)
+[![Ecosystem Standards](https://img.shields.io/badge/standards-ecosystem--standards-24292f)](https://github.com/sparshsam/ecosystem-standards)
+[![Open Source](https://img.shields.io/badge/focus-open%20source-2ea44f)](https://github.com/sparshsam?tab=repositories)
 
-## Research Direction
+## Current Focus
 
-- Calm software: interfaces that lower urgency, reduce manipulation, and respect ordinary human attention.
-- Local-first computing: user-owned records, offline resilience, exportability, and private defaults.
-- Behavioral infrastructure: software that shapes action without exploiting compulsion, streaks, shame, or artificial scarcity.
-- Proof systems: timestamping, verification, audit trails, and public evidence with minimal disclosure.
-- Ownership without surveillance: durable personal systems where custody does not require behavioral capture.
+- Proof-of-existence and receipt infrastructure for timestamping local file hashes with minimal disclosure.
+- Behavioral finance systems for capital separation, timed locks, and calmer decision boundaries.
+- Local-first personal tools for documents, budgeting, care routines, language practice, and game preservation.
+- Repository standards, release discipline, and research publication workflows for a coherent open-source ecosystem.
 
-## Public Ecosystem
+## Featured Ecosystem
 
-| Area | Project | Role |
+| Project | Area | Status | Role |
+| --- | --- | --- | --- |
+| [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral finance | Active prototype | Self-custodied vault mechanics, protected capital states, and Base-native financial infrastructure. |
+| [OpenProof](https://github.com/sparshsam/openproof) | Proof systems | Active prototype | Local file hashing, onchain proof registration, receipts, and verification workflows. |
+| [ecosystem-standards](https://github.com/sparshsam/ecosystem-standards) | Governance | Canonical | Repository, documentation, security, publication, and agent-operation standards. |
+| [PDFReader by Sparsh](https://github.com/sparshsam/pdfreader-by-sparsh) | Local documents | Maintained | Desktop PDF reading, search, annotation, diff, merge, split, and release engineering. |
+| [Chess by Sparsh](https://github.com/sparshsam/chess-by-sparsh) | Local games | Maintained | Browser chess with accurate rule validation, portable game records, and local-first play. |
+| [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Preservation | Maintained prototype | Snake-inspired Python/Pygame prototype with deterministic replay and browser modernization work. |
+
+## Wider Project Map
+
+| Area | Repository | Purpose |
 | --- | --- | --- |
-| Command center | [Builder Journal](https://github.com/sparshsam/builder-journal) | Public builder journal and ecosystem command center for project direction, status, decisions, maintenance, and repo health tracking. Now includes agent handoff rules and future build roadmaps. |
-| Proof and verification | [OpenProof](https://github.com/sparshsam/openproof) | Proof-of-existence infrastructure for local file hashes and verifiable records. |
-| Behavioral finance | [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral financial infrastructure for user-controlled vault mechanics and capital separation. |
-| Calm finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Private, local-first finance tooling for everyday budgeting and records. |
-| Local documents | [PDFReader](https://github.com/sparshsam/pdfreader-by-sparsh) | Local-first desktop PDF tooling with no cloud upload dependency. |
-| Care systems | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care software for schedules, logs, and stewardship. |
-| Reflective practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with dictionary definitions and optional media backgrounds. |
-| Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Public-interest tooling for safety, accountability, and civic trust. |
-| Creative prototypes | [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Legacy AI-assisted Python/Pygame arcade prototype preserved for future modernization. |
+| Builder operations | [builder-journal](https://github.com/sparshsam/builder-journal) | Public command center for project direction, decisions, maintenance, and repo health. |
+| Plant care | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care records for schedules, logs, and long-running stewardship routines. |
+| Personal finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Local-first budgeting and financial records with exportable personal data. |
+| Language practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with definitions and optional media backgrounds. |
+| Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Early-stage safety mapping concept for careful public-interest records. |
 
-## Private / Proprietary Systems
-
-Not all systems in this ecosystem are public. Some remain private where they involve proprietary workflows, sensitive operational logic, or business-specific infrastructure.
-
-TW Oracle is a private internal decision-support system for The Wager, focused on structured sports intelligence, operational workflows, and disciplined review processes. Public references describe only its purpose and boundaries; implementation details remain private.
-
-## Governance & Standards
-
-[Ecosystem Standards](https://github.com/sparshsam/ecosystem-standards) — repository, documentation, security, and publication standards governing the public and private systems across this ecosystem.
-
-## Current Outputs
-
-- [Ecosystem Narrative](docs/ecosystem-narrative.md)
-- [Research Outputs](docs/research-outputs.md)
-- [Philosophy of Calm Infrastructure](docs/philosophy-of-calm-infrastructure.md)
-- [Publication Roadmap](docs/publication-roadmap.md)
-- [Repository Taxonomy](docs/repository-taxonomy.md)
-- [ORCID and DOI Strategy](docs/orcid-zenodo-doi-strategy.md)
-
-## Positioning
-
-I describe this work as independent research and open-source systems design, not as startup positioning. The goal is to make small, durable systems that can be inspected, cited, forked, self-hosted, and maintained over long periods.
-
-Useful labels:
-
-- independent researcher
-- open-source systems designer
-- behavioral infrastructure builder
-- local-first software maintainer
-- proof and ownership infrastructure practitioner
-
-## Maintenance Principles
+## Philosophy
 
 - Prefer clear records over opaque automation.
 - Prefer exportability over lock-in.
@@ -67,8 +44,43 @@ Useful labels:
 - Prefer verifiable claims over persuasive language.
 - Prefer long-term stewardship over novelty.
 
-## Research Identity
+## Stack
 
-This profile is designed to connect GitHub, ORCID, Zenodo DOIs, public repositories, architecture notes, and future papers into one coherent research record. The profile repository itself acts as a public index for the ecosystem and a stable place for shared standards, citation metadata, and publication planning.
+| Layer | Tools |
+| --- | --- |
+| Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS |
+| Local-first apps | Python, PySide6, PyMuPDF, SQLite, browser storage |
+| Web3 / proof | Solidity, Base, Base Sepolia, viem, wagmi, RainbowKit |
+| Data and backend | Supabase, PostgreSQL, serverless APIs where needed |
+| Delivery | GitHub Actions, Vercel, PyInstaller, release checklists |
+| Governance | README standards, security policies, contribution guides, changelogs, release notes |
 
-ORCID iD: https://orcid.org/0009-0007-1585-6927.
+## Research Direction
+
+My work sits between applied software engineering, protocol design, local-first computing, and behavioral infrastructure. I am especially interested in systems that are inspectable, self-custodial, emotionally quiet, and maintainable by small teams or individual users over long periods.
+
+Current research themes:
+
+- Calm software and non-extractive interfaces.
+- Ownership without surveillance.
+- Proof, receipts, and public verification with minimal disclosure.
+- Local-first personal records and exportable data.
+- AI-assisted software preservation and responsible agent workflows.
+
+## Research And Publication Links
+
+- [Ecosystem narrative](docs/ecosystem-narrative.md)
+- [Research outputs](docs/research-outputs.md)
+- [Philosophy of calm infrastructure](docs/philosophy-of-calm-infrastructure.md)
+- [Publication roadmap](docs/publication-roadmap.md)
+- [Repository taxonomy](docs/repository-taxonomy.md)
+- [ORCID and DOI strategy](docs/orcid-zenodo-doi-strategy.md)
+- ORCID: [0009-0007-1585-6927](https://orcid.org/0009-0007-1585-6927)
+
+## Private And Proprietary Boundaries
+
+Not every system in the ecosystem is public. Some work remains private when it involves proprietary workflows, sensitive operational logic, or business-specific infrastructure. Public references describe purpose and boundaries only; implementation details stay private.
+
+## Maintainer Positioning
+
+This profile is an independent research and open-source systems record, not startup positioning. The goal is to make small, durable systems that can be inspected, cited, forked, self-hosted, and maintained over time.
