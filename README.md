@@ -4,15 +4,17 @@ Independent researcher and open-source systems designer building calm, privacy-f
 
 I work on local-first software, proof systems, behavioral infrastructure, and public-interest tools that help people keep agency over records, routines, decisions, and evidence. The common thread is restraint: software should be legible, durable, exportable, and useful without turning attention or trust into a growth surface.
 
+[![Landing page](https://img.shields.io/badge/site-sparshsam.github.io-24292f?style=flat&logo=github)](https://sparshsam.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1585--6927-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1585-6927)
-[![Ecosystem Standards](https://img.shields.io/badge/standards-ecosystem--standards-24292f)](https://github.com/sparshsam/ecosystem-standards)
-[![Open Source](https://img.shields.io/badge/focus-open%20source-2ea44f)](https://github.com/sparshsam?tab=repositories)
+[![Ecosystem Standards](https://img.shields.io/badge/standards-ecosystem--standards-2ea44f)](https://github.com/sparshsam/ecosystem-standards)
+[![Open Source](https://img.shields.io/badge/focus-open%20source-blue)](https://github.com/sparshsam?tab=repositories)
 
 ## Current Focus
 
 - Proof-of-existence and receipt infrastructure for timestamping local file hashes with minimal disclosure.
 - Behavioral finance systems for capital separation, timed locks, and calmer decision boundaries.
-- Local-first personal tools for documents, budgeting, care routines, language practice, and game preservation.
+- Consumer financial interfaces that make protected money approachable.
+- Local-first personal tools for documents, budgeting, care routines, language practice, and color exploration.
 - Repository standards, release discipline, and research publication workflows for a coherent open-source ecosystem.
 
 ## Featured Ecosystem
@@ -20,21 +22,38 @@ I work on local-first software, proof systems, behavioral infrastructure, and pu
 | Project | Area | Status | Role |
 | --- | --- | --- | --- |
 | [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral finance | Active prototype | Self-custodied vault mechanics, protected capital states, and Base-native financial infrastructure. |
+| [Canopy](https://github.com/sparshsam/canopy) | Consumer finance | Active prototype | Calm financial interface for protected money. Consumer layer for Elora infrastructure. |
 | [OpenProof](https://github.com/sparshsam/openproof) | Proof systems | Active prototype | Local file hashing, onchain proof registration, receipts, and verification workflows. |
 | [ecosystem-standards](https://github.com/sparshsam/ecosystem-standards) | Governance | Canonical | Repository, documentation, security, publication, and agent-operation standards. |
 | [PDFReader by Sparsh](https://github.com/sparshsam/pdfreader-by-sparsh) | Local documents | Maintained | Desktop PDF reading, search, annotation, diff, merge, split, and release engineering. |
-| [Chess by Sparsh](https://github.com/sparshsam/chess-by-sparsh) | Local games | Maintained | Browser chess with accurate rule validation, portable game records, and local-first play. |
-| [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Preservation | Maintained prototype | Snake-inspired Python/Pygame prototype with deterministic replay and browser modernization work. |
+| [Chess by Sparsh](https://github.com/sparshsam/chess-by-sparsh) | Local games | Maintained | Browser chess with accurate rule validation, computer opponent, and local-first play. |
+| [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Preservation | Maintained prototype | Snake-inspired Python/Pygame prototype with deterministic replay and browser modernization. |
 
 ## Wider Project Map
 
 | Area | Repository | Purpose |
 | --- | --- | --- |
 | Builder operations | [builder-journal](https://github.com/sparshsam/builder-journal) | Public command center for project direction, decisions, maintenance, and repo health. |
+| Color tools | [openpalette](https://github.com/sparshsam/openpalette) | Local-first five-color palette generator with multiple export formats. |
+| Music library | [OpenTone](https://github.com/sparshsam/opentone) | Offline-first personal music library and desktop player for owned media. |
 | Plant care | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care records for schedules, logs, and long-running stewardship routines. |
 | Personal finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Local-first budgeting and financial records with exportable personal data. |
 | Language practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with definitions and optional media backgrounds. |
-| Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Early-stage safety mapping concept for careful public-interest records. |
+| Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Safety mapping and public-interest records with guest-first access. |
+| Config & dotfiles | [dotfiles](https://github.com/sparshsam/dotfiles) | Personal dotfiles and agent configurations for Hermes and OpenClaw. |
+
+## Private & Proprietary Systems
+
+The following systems are private and proprietary — public references describe purpose and boundaries only; implementation details stay internal.
+
+| System | Purpose |
+| --- | --- |
+| **TW Oracle** | Operational intelligence center for The Wager — fixture management, research prep, AI-assisted picks, QA/logs, and performance analytics. |
+| **twonchain** | Private onchain interaction tool for Web3 operations. |
+| **onchainlog** | Private onchain logging and tracking system. |
+| **twadmin** | Private admin interface. |
+| **statsmlb** | Private MLB betting analytics and insights. |
+| **wager-ai-assistant** | Private AI assistant interface with Prisma-backed data layer. |
 
 ## Philosophy
 
@@ -48,10 +67,11 @@ I work on local-first software, proof systems, behavioral infrastructure, and pu
 
 | Layer | Tools |
 | --- | --- |
-| Frontend | TypeScript, React, Next.js, Vite, Tailwind CSS |
-| Local-first apps | Python, PySide6, PyMuPDF, SQLite, browser storage |
-| Web3 / proof | Solidity, Base, Base Sepolia, viem, wagmi, RainbowKit |
-| Data and backend | Supabase, PostgreSQL, serverless APIs where needed |
+| Frontend | TypeScript, React 19, Next.js 16, Vite, Tailwind CSS v4, shadcn/ui |
+| Desktop | Tauri v2 (Rust), Python + PySide6 + PyMuPDF, Electron |
+| Local-first apps | Python, SQLite, IndexedDB, localStorage |
+| Web3 / proof | Solidity, Base (Sepolia), viem, wagmi, RainbowKit, Hardhat |
+| Data and backend | Supabase, PostgreSQL, Prisma, serverless APIs |
 | Delivery | GitHub Actions, Vercel, PyInstaller, release checklists |
 | Governance | README standards, security policies, contribution guides, changelogs, release notes |
 
@@ -76,10 +96,6 @@ Current research themes:
 - [Repository taxonomy](docs/repository-taxonomy.md)
 - [ORCID and DOI strategy](docs/orcid-zenodo-doi-strategy.md)
 - ORCID: [0009-0007-1585-6927](https://orcid.org/0009-0007-1585-6927)
-
-## Private And Proprietary Boundaries
-
-Not every system in the ecosystem is public. Some work remains private when it involves proprietary workflows, sensitive operational logic, or business-specific infrastructure. Public references describe purpose and boundaries only; implementation details stay private.
 
 ## Maintainer Positioning
 
