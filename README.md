@@ -84,3 +84,7 @@ Not every system in the ecosystem is public. Some work remains private when it i
 ## Maintainer Positioning
 
 This profile is an independent research and open-source systems record, not startup positioning. The goal is to make small, durable systems that can be inspected, cited, forked, self-hosted, and maintained over time.
+
+---
+
+*Last updated: June 2026*
