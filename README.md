@@ -14,7 +14,7 @@ I work on local-first software, proof systems, behavioral infrastructure, and pu
 - Proof-of-existence and receipt infrastructure for timestamping local file hashes with minimal disclosure.
 - Behavioral finance systems for capital separation, timed locks, and calmer decision boundaries.
 - Consumer financial interfaces that make protected money approachable.
-- Local-first personal tools for documents, budgeting, care routines, language practice, and color exploration.
+- Local-first personal tools for documents, budgeting, care routines, language practice, color exploration, and file conversion.
 - Repository standards, release discipline, and research publication workflows for a coherent open-source ecosystem.
 
 ## Featured Ecosystem
@@ -40,7 +40,12 @@ I work on local-first software, proof systems, behavioral infrastructure, and pu
 | Personal finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Local-first budgeting and financial records with exportable personal data. |
 | Language practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with definitions and optional media backgrounds. |
 | Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Safety mapping and public-interest records with guest-first access. |
+| Desktop conversion | [OpenConvert](https://github.com/sparshsam/OpenConvert) | Privacy-first local image conversion between PNG, JPG, WEBP, BMP, and TIFF. |
+| Board games | [openscrabble](https://github.com/sparshsam/openscrabble) | Local-first two-player Scrabble game for browser-based casual play. |
+| Desktop utilities | [worldclock-widget](https://github.com/sparshsam/worldclock-widget) | Lightweight local desktop world clock widget built with Python and tkinter. |
 | Config & dotfiles | [dotfiles](https://github.com/sparshsam/dotfiles) | Personal dotfiles and agent configurations for Hermes and OpenClaw. |
+| Profile & landing | [sparshsam.github.io](https://github.com/sparshsam/sparshsam.github.io) | GitHub Pages landing site and profile index. |
+| Archive | [hiccups](https://github.com/sparshsam/hiccups) | Early experimental repository (July 2022). |
 
 ## Private & Proprietary Systems
 
@@ -48,6 +53,8 @@ The following systems are private and proprietary — public references describe
 
 | System | Purpose |
 | --- | --- |
+| **openclaw-config** | Personal environment and automation configuration for OpenClaw and system setup. |
+| **ai-ops-command** | Canonical operational handbook and memory system for multi-machine AI engineering environment. |
 | **TW Oracle** | Operational intelligence center for The Wager — fixture management, research prep, AI-assisted picks, QA/logs, and performance analytics. |
 | **twonchain** | Private onchain interaction tool for Web3 operations. |
 | **onchainlog** | Private onchain logging and tracking system. |
@@ -68,11 +75,11 @@ The following systems are private and proprietary — public references describe
 | Layer | Tools |
 | --- | --- |
 | Frontend | TypeScript, React 19, Next.js 16, Vite, Tailwind CSS v4, shadcn/ui |
-| Desktop | Tauri v2 (Rust), Python + PySide6 + PyMuPDF, Electron |
+| Desktop | Tauri v2 (Rust), Python + PySide6 + PyMuPDF, Python + tkinter |
 | Local-first apps | Python, SQLite, IndexedDB, localStorage |
 | Web3 / proof | Solidity, Base (Sepolia), viem, wagmi, RainbowKit, Hardhat |
 | Data and backend | Supabase, PostgreSQL, Prisma, serverless APIs |
-| Delivery | GitHub Actions, Vercel, PyInstaller, release checklists |
+| Delivery | GitHub Actions, Vercel, PyInstaller, NSIS, release checklists |
 | Governance | README standards, security policies, contribution guides, changelogs, release notes |
 
 ## Research Direction
