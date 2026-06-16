@@ -4,6 +4,8 @@ Independent researcher and open-source systems designer building calm, privacy-f
 
 I work on local-first software, proof systems, behavioral infrastructure, and public-interest tools that help people keep agency over records, routines, decisions, and evidence. The common thread is restraint: software should be legible, durable, exportable, and useful without turning attention or trust into a growth surface.
 
+→ [sparshsam.github.io](https://sparshsam.github.io) — personal landing page and ecosystem index.
+
 [![Landing page](https://img.shields.io/badge/site-sparshsam.github.io-24292f?style=flat&logo=github)](https://sparshsam.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1585--6927-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1585-6927)
 [![Ecosystem Standards](https://img.shields.io/badge/standards-ecosystem--standards-2ea44f)](https://github.com/sparshsam/ecosystem-standards)
