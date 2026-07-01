@@ -1,113 +1,118 @@
 # Sparsh Sam
 
-Independent researcher and open-source systems designer building calm, privacy-first infrastructure.
+Independent researcher, product strategist, and open-source systems designer building a calm, privacy-first ecosystem of software tools.
 
-I work on local-first software, proof systems, behavioral infrastructure, and public-interest tools that help people keep agency over records, routines, decisions, and evidence. The common thread is restraint: software should be legible, durable, exportable, and useful without turning attention or trust into a growth surface.
+I build local-first software, proof systems, behavioral infrastructure, and public-interest tools that help people keep agency over their records, routines, decisions, and evidence. The common thread is restraint: software should be legible, durable, exportable, and useful without turning attention or trust into a growth surface.
 
-[![Landing page](https://img.shields.io/badge/site-sparshsam.github.io-24292f?style=flat&logo=github)](https://sparshsam.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1585--6927-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1585-6927)
-[![Ecosystem Standards](https://img.shields.io/badge/standards-ecosystem--standards-2ea44f)](https://github.com/sparshsam/ecosystem-standards)
+[![Kovina](https://img.shields.io/badge/ecosystem-Kovina-099019?style=flat&logo=)](https://kovina.org)
+[![Portfolio](https://img.shields.io/badge/site-sparshsam.github.io-24292f?style=flat&logo=github)](https://sparshsam.github.io)
+[![Builder Journal](https://img.shields.io/badge/journal-builder--journal-8b5cf6)](https://github.com/sparshsam/builder-journal)
 [![Open Source](https://img.shields.io/badge/focus-open%20source-blue)](https://github.com/sparshsam?tab=repositories)
+[![Kolovoz Advisory LLP](https://img.shields.io/badge/firm-Kolovoz%20Advisory-1a1a2e)](https://github.com/sparshsam)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1585--6927-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1585-6927)
+
+---
+
+## Featured Apps — Kovina Ecosystem
+
+### Live
+
+| | App | Description |
+|---|---|---|
+| 📄 | [OpenReader](https://github.com/sparshsam/openreader) | Native PDF reader for Windows. Microsoft Store. [→](https://reader.kovina.org) |
+| 📸 | [OpenSnap](https://github.com/sparshsam/opensnap) | Screenshot and OCR widget for Windows. Microsoft Store. [→](https://snap.kovina.org) |
+| 📤 | [OpenSend](https://github.com/sparshsam/opensend) | Free, open-source file sharing. [→](https://send.kovina.org) |
+| 🐍 | [Hisstastic](https://github.com/sparshsam/hisstastic) | Retro snake-inspired arcade game. [→](https://hisstastic.vercel.app) |
+| 📖 | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice. [→](https://wordwisehiccups.vercel.app) |
+
+### In Development
+
+| | App | Description |
+|---|---|---|
+| 💰 | [OpenLedger](https://github.com/sparshsam/openledger) | Personal finance and net worth tracking. |
+| 🎨 | [OpenPalette](https://github.com/sparshsam/openpalette) | Local-first color studio for the browser. |
+| 🎵 | [OpenTone](https://github.com/sparshsam/opentone) | Offline-first personal music library and desktop player. |
+| 🪴 | [OpenSprout](https://github.com/sparshsam/opensprout) | Plant care and gardening companion. |
+| ✍️ | [OpenJournal](https://github.com/sparshsam/openjournal) | Privacy-first local activity journal for Windows. |
+| 🔏 | [OpenProof](https://github.com/sparshsam/openproof) | Onchain proof of existence and verification. |
+| 🔄 | [OpenConvert](https://github.com/sparshsam/openconvert) | Local-first desktop image converter. |
+| ♟️ | [OpenScrabble](https://github.com/sparshsam/openscrabble) | Local-first two-player Scrabble. |
+| ♔ | [Chess by Sparsh](https://github.com/sparshsam/chess-by-sparsh) | Browser chess with computer opponent. |
+| 🌍 | [World Clock Widget](https://github.com/sparshsam/world-clock-widget) | Lightweight desktop world clock utility. |
+| 🛡️ | [SheSafe](https://github.com/sparshsam/shesafe) | Community safety mapping with privacy by default. |
+| 💎 | [Elora Vault](https://github.com/sparshsam/elora-vault) | Self-custodied behavioral capital vault on Base. |
+
+---
 
 ## Current Focus
 
-- Proof-of-existence and receipt infrastructure for timestamping local file hashes with minimal disclosure.
-- Behavioral finance systems for capital separation, timed locks, and calmer decision boundaries.
-- Consumer financial interfaces that make protected money approachable.
-- Local-first personal tools for documents, budgeting, care routines, language practice, color exploration, and file conversion.
-- Repository standards, release discipline, and research publication workflows for a coherent open-source ecosystem.
+- **Building the Kovina ecosystem** — a collection of open-source tools for ownership, permanence, and everyday use.
+- **Commercial AI-native software** — through Kolovoz Advisory LLP, building production AI-assisted systems for intelligence, analytics, and operational tooling.
+- **Local-first desktop software** — tools that work offline, own your data, and respect your attention.
+- **Privacy-first utilities** — no telemetry, no accounts, no cloud dependency by default.
+- **AI-assisted product development** — using AI agents for code generation, testing, documentation, and release engineering.
+- **Long-term software stewardship** — maintainable, inspectable, forkable systems that last.
 
-## Featured Ecosystem
+---
 
-| Project | Area | Status | Role |
-| --- | --- | --- | --- |
-| [Elora Vault](https://github.com/sparshsam/elora-vault) | Behavioral finance | Active prototype | Self-custodied vault mechanics, protected capital states, and Base-native financial infrastructure. |
-| [Canopy](https://github.com/sparshsam/canopy) | Consumer finance | Active prototype | Calm financial interface for protected money. Consumer layer for Elora infrastructure. |
-| [OpenProof](https://github.com/sparshsam/openproof) | Proof systems | Active prototype | Local file hashing, onchain proof registration, receipts, and verification workflows. |
-| [ecosystem-standards](https://github.com/sparshsam/ecosystem-standards) | Governance | Canonical | Repository, documentation, security, publication, and agent-operation standards. |
-| [PDFReader by Sparsh](https://github.com/sparshsam/pdfreader-by-sparsh) | Local documents | Maintained | Desktop PDF reading, search, annotation, diff, merge, split, and release engineering. |
-| [Chess by Sparsh](https://github.com/sparshsam/chess-by-sparsh) | Local games | Maintained | Browser chess with accurate rule validation, computer opponent, and local-first play. |
-| [Hiss-Tastic](https://github.com/sparshsam/hiss-tastic) | Preservation | Maintained prototype | Snake-inspired Python/Pygame prototype with deterministic replay and browser modernization. |
+## Selected Previous Work
 
-## Wider Project Map
+### The Wager (2024–2026)
 
-| Area | Repository | Purpose |
-| --- | --- | --- |
-| Builder operations | [builder-journal](https://github.com/sparshsam/builder-journal) | Public command center for project direction, decisions, maintenance, and repo health. |
-| Color tools | [openpalette](https://github.com/sparshsam/openpalette) | Local-first five-color palette generator with multiple export formats. |
-| Music library | [OpenTone](https://github.com/sparshsam/opentone) | Offline-first personal music library and desktop player for owned media. |
-| Plant care | [OpenSprout](https://github.com/sparshsam/opensprout) | Privacy-first plant care records for schedules, logs, and long-running stewardship routines. |
-| Personal finance | [QuietLedger](https://github.com/sparshsam/quietledger) | Local-first budgeting and financial records with exportable personal data. |
-| Language practice | [WordWise](https://github.com/sparshsam/wordwise) | Reflective word-of-the-day practice with definitions and optional media backgrounds. |
-| Civic integrity | [SheSafe](https://github.com/sparshsam/shesafe) | Safety mapping and public-interest records with guest-first access. |
-| Desktop conversion | [OpenConvert](https://github.com/sparshsam/OpenConvert) | Privacy-first local image conversion between PNG, JPG, WEBP, BMP, and TIFF. |
-| Board games | [openscrabble](https://github.com/sparshsam/openscrabble) | Local-first two-player Scrabble game for browser-based casual play. |
-| Desktop utilities | [worldclock-widget](https://github.com/sparshsam/worldclock-widget) | Lightweight local desktop world clock widget built with Python and tkinter. |
-| Config & dotfiles | [dotfiles](https://github.com/sparshsam/dotfiles) | Personal dotfiles and agent configurations for Hermes and OpenClaw. |
-| Profile & landing | [sparshsam.github.io](https://github.com/sparshsam/sparshsam.github.io) | GitHub Pages landing site and profile index. |
-| Archive | [hiccups](https://github.com/sparshsam/hiccups) | Early experimental repository (July 2022). |
-
-## Private & Proprietary Systems
-
-The following systems are private and proprietary — public references describe purpose and boundaries only; implementation details stay internal.
+AI-assisted sports intelligence platform focused on research, operational tooling, betting workflows, analytics, and internal infrastructure. [→](https://thewager.ai)
 
 | System | Purpose |
-| --- | --- |
-| **openclaw-config** | Personal environment and automation configuration for OpenClaw and system setup. |
-| **ai-ops-command** | Canonical operational handbook and memory system for multi-machine AI engineering environment. |
-| **TW Oracle** | Operational intelligence center for The Wager — fixture management, research prep, AI-assisted picks, QA/logs, and performance analytics. |
-| **twonchain** | Private onchain interaction tool for Web3 operations. |
-| **onchainlog** | Private onchain logging and tracking system. |
-| **twadmin** | Private admin interface. |
-| **statsmlb** | Private MLB betting analytics and insights. |
-| **wager-ai-assistant** | Private AI assistant interface with Prisma-backed data layer. |
+|---|---|
+| **TW Oracle** | Operational intelligence center for fixture management, research preparation, AI-assisted picks, QA workflows, and performance analytics. |
+| **Wager AI Assistant** | Internal AI assistant with Prisma-backed data layer for structured queries and automated workflows. |
+| **StatsMLB** | MLB betting analytics and research platform with historical data, modeling, and visualization. |
+| **TW Admin** | Internal administration interface for user management, permissions, and system configuration. |
+| **OnChainLog** | Private onchain logging and tracking platform for operational transparency. |
+| **TWOnChain** | Internal Web3 interaction toolkit for blockchain operations. |
+
+> These repositories remain private and are included as examples of previous commercial product and infrastructure work.
+
+---
 
 ## Philosophy
 
-- Prefer clear records over opaque automation.
-- Prefer exportability over lock-in.
-- Prefer calm defaults over engagement loops.
-- Prefer verifiable claims over persuasive language.
-- Prefer long-term stewardship over novelty.
+- **Local-first** — your data stays on your machine.
+- **Privacy-first** — no telemetry, no accounts required.
+- **Calm software** — no engagement loops, no notifications, no dark patterns.
+- **Durable systems** — built to be maintained, forked, and self-hosted over decades, not quarters.
+- **Ownership over lock-in** — exportable formats, inspectable code, AGPLv3 or MIT licensed.
+- **Clear records over opaque automation** — verifiable, auditable, human-readable.
+- **Long-term stewardship over novelty** — slow, careful, intentional.
 
-## Stack
+---
+
+## Technology Stack
 
 | Layer | Tools |
-| --- | --- |
-| Frontend | TypeScript, React 19, Next.js 16, Vite, Tailwind CSS v4, shadcn/ui |
-| Desktop | Tauri v2 (Rust), Python + PySide6 + PyMuPDF, Python + tkinter |
-| Local-first apps | Python, SQLite, IndexedDB, localStorage |
-| Web3 / proof | Solidity, Base (Sepolia), viem, wagmi, RainbowKit, Hardhat |
-| Data and backend | Supabase, PostgreSQL, Prisma, serverless APIs |
-| Delivery | GitHub Actions, Vercel, PyInstaller, NSIS, release checklists |
-| Governance | README standards, security policies, contribution guides, changelogs, release notes |
+|---|---|
+| Frontend | TypeScript, React 19, Next.js 16, Vite, Tailwind CSS v4 |
+| Desktop | Tauri v2 (Rust), Python (PySide6, PyMuPDF, tkinter), C# (WPF) |
+| Mobile | Capacitor, Android (Kotlin) |
+| Local-first | SQLite, IndexedDB, localStorage, PouchDB |
+| AI / Agents | Anthropic Claude, OpenAI, MCP servers, LangChain |
+| Web3 | Solidity, Base (Sepolia), viem, wagmi |
+| Backend | Supabase, PostgreSQL, Prisma, Node.js |
+| Delivery | GitHub Actions, Cloudflare Pages, Vercel, Microsoft Store |
+| Governance | README standards, security policies, changelogs, AGPLv3 / MIT |
+
+---
 
 ## Research Direction
 
 My work sits between applied software engineering, protocol design, local-first computing, and behavioral infrastructure. I am especially interested in systems that are inspectable, self-custodial, emotionally quiet, and maintainable by small teams or individual users over long periods.
 
-Current research themes:
-
 - Calm software and non-extractive interfaces.
 - Ownership without surveillance.
-- Proof, receipts, and public verification with minimal disclosure.
 - Local-first personal records and exportable data.
-- AI-assisted software preservation and responsible agent workflows.
-
-## Research And Publication Links
-
-- [Ecosystem narrative](docs/ecosystem-narrative.md)
-- [Research outputs](docs/research-outputs.md)
-- [Philosophy of calm infrastructure](docs/philosophy-of-calm-infrastructure.md)
-- [Publication roadmap](docs/publication-roadmap.md)
-- [Repository taxonomy](docs/repository-taxonomy.md)
-- [ORCID and DOI strategy](docs/orcid-zenodo-doi-strategy.md)
-- ORCID: [0009-0007-1585-6927](https://orcid.org/0009-0007-1585-6927)
-
-## Maintainer Positioning
-
-This profile is an independent research and open-source systems record, not startup positioning. The goal is to make small, durable systems that can be inspected, cited, forked, self-hosted, and maintained over time.
+- AI-assisted software development and preservation.
+- Open-source ecosystems and product strategy.
+- Long-term maintainability and software stewardship.
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
